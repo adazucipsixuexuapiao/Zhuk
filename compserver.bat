@@ -1,0 +1,1 @@
+g++ -m32 -std=c++17 src/server.cpp src/config.cpp src/fileparser.cpp src/netutil.cpp -o server.exe -lws2_32
