@@ -1,0 +1,17 @@
+n road
+id 0;
+n factory
+size 2
+id 1;
+n drill
+size 2
+id 2;
+n incubator
+size 2
+id 3;
+n hand
+size 1
+id 4;
+n furnace
+size 2
+id 5;

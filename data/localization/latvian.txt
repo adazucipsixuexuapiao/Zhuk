@@ -1,0 +1,11 @@
+Zhuk|Zhuk
+Infect|Spelet
+Read|Lasit
+Settings|Opcijas
+Rot|Iziet
+Become the pest...|Paliec par kukaini...
+Inquire about the pests...|Uzzinat par kukainiem...
+ore|ruda
+gear|zobrats
+spring|atspere
+mineral water|mineralka

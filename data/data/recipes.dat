@@ -1,0 +1,12 @@
+result 1 bullet_case
+add 1 plate
+usemat;
+result 1 plate
+add 1 bar
+usemat;
+result 1 gear
+add 1 plate
+usemat;
+result 1 spring
+add 1 plate
+usemat;
