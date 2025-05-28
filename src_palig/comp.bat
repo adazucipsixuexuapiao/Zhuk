@@ -1,0 +1,1 @@
+g++ -m32 -std=c++17 src/*.cpp -o main.exe -Ic:/SDL32/include -Lc:/SDL32/lib -lmingw32 -lSDL2main -lSDL2 -lSDL2_image -lSDL2_mixer

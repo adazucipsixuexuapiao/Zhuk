@@ -1,0 +1,12 @@
+# DrillBomb configuration file
+# 1 means true, 0 means false.
+
+# set this to 1 if you want it to be in windowed mode in the specified resolution. 0 means itll go fullscreen.
+: windowed 1
+: wwidth 1024
+: wheight 768
+
+# set this to 1 if you want it to use fwidth and fheight for fullscreen mode. otherwise itll use your screen resolution
+: custom_fullscreen 1
+: fwidth 1024
+: fheight 768
